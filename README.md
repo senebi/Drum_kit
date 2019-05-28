@@ -1,4 +1,4 @@
-# Drum_kit
+# Drum kit
 Drum with the mouse or with the keyboard!
 
 # Built with
