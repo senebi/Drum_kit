@@ -1,5 +1,6 @@
 # Drum kit
 Drum with the mouse or with the keyboard!
+Note: Read haruko as senebi, it's the same (in live version).
 
 # Built with
 
@@ -11,4 +12,4 @@ Drum with the mouse or with the keyboard!
 - English
 
 # Live version
-https://senebi.github.io/Drum_kit/
+https://secret-temple-23866.herokuapp.com/
